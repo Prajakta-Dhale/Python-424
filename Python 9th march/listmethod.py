@@ -15,3 +15,4 @@ x=fruits.copy()
 print(x)
 x.clear()
 print(x)
+
